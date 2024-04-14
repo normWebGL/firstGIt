@@ -3,3 +3,6 @@ udemy 初めてのGit
 git add練習
 
 git status /commit練習
+
+git remove
+addして
